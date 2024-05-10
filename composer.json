@@ -1,15 +1,13 @@
 {
     "name": "wangchuang91/tplog",
-    "description": "tplog",
+    "description": "wc test packagist",
     "require": {
-        "php": ">=5.3.0",
-        "topthink/framework": ">=6.1.0"
+        "php": ">=5.3.0"
     },
     "autoload": {
         "files": [],
         "psr-4": {
             "wangchuang91\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
